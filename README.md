@@ -10,9 +10,8 @@ This project is built with modern technologies like React, Node.js, MongoDB, and
 ## 🎥 Watch the Overview Video
 Here’s a quick overview of LearnifyPro:
 
-<div align="center">
-  <iframe width="80%" height="400" src="https://www.youtube.com/embed/rYykdUVL1o8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+https://github.com/user-attachments/assets/05a94cc5-9360-4615-babf-c1b56bd6589c
+
 
 This video showcases the core features of LearnifyPro, such as course management, real-time communication, and the sleek user interface.
 
